@@ -1,0 +1,24 @@
+{
+  "name": "autotest ",
+  "version": "1.0.0",
+  "description": "selenium自动化测试nodejs版",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "selenium-webdriver": "^3.0.0-beta-3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "flink":"node test/flink-check/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waihaolaoxu/autotest.git"
+  },
+  "author": "前端老徐",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waihaolaoxu/autotest/issues"
+  },
+  "homepage": "https://github.com/waihaolaoxu/autotest#readme"
+}
