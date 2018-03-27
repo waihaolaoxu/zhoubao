@@ -6,4 +6,6 @@ chrome 62 对应 2.25版本驱动
 
 chrome 64 对应 2.33版本驱动
 
+chrome 65 对应 2.37版本驱动
+
 驱动下载地址：http://chromedriver.storage.googleapis.com/index.html
